@@ -1,7 +1,3 @@
-﻿  BmpDrawer.cpp
-  main.cpp
-  PSNRMeasure.cpp
-  WavDrawer.cpp
-  Window.cpp
-  Generating Code...
+﻿  main.cpp
+c:\users\curtis\documents\portfolioprojects\imcompress\imcompress\main.cpp(302): warning C4715: 'SDL_main': not all control paths return a value
   IMCompress.vcxproj -> C:\Users\Curtis\Documents\PortfolioProjects\IMCompress\Debug\IMCompress.exe
